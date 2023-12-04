@@ -1,9 +1,9 @@
 Package: codes.wilma24.spotifix
 Name: Spotifix
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm
-Description: A small tweak to disable the offline mode toggle
+Description: A cute little tweak to fix a crash bug on iOS 9
 Maintainer: wilma242008
 Author: wilma242008
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), com.yllier.firewall7
+Depends: mobilesubstrate (>= 0.9.5000), com.yllier.firewall7, firmware (>= 9.0)
