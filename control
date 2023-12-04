@@ -1,0 +1,9 @@
+Package: codes.wilma24.spotifix
+Name: Spotifix
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: A small tweak to disable the offline mode toggle
+Maintainer: wilma242008
+Author: wilma242008
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.yllier.firewall7
